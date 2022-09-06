@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GallatinApps
-- 👀 I’m interested in Swift, SwiftUI, and iOS Development.
-- 🌱 I’m currently learning Swift 5.5
+- 👀 I’m interested in Flutter, Swift, iOS and Andriod development.
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me @GallatinApps 
 
 <!---
